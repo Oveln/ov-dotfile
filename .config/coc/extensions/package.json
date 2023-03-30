@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-snippets": ">=3.1.6",
+    "coc-clangd": ">=0.28.0",
+    "coc-pairs": ">=1.4.2"
+  },
+  "lastUpdate": 1680083846094
+}
