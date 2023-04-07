@@ -160,6 +160,11 @@ _G.packer_plugins = {
     path = "/home/oveln/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
   },
+  ["vim-kitty"] = {
+    loaded = true,
+    path = "/home/oveln/.local/share/nvim/site/pack/packer/start/vim-kitty",
+    url = "https://github.com/fladson/vim-kitty"
+  },
   ["vim-tmux-navigator"] = {
     loaded = true,
     path = "/home/oveln/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
