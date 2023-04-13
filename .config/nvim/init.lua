@@ -22,3 +22,6 @@ require("plugins/coderunner")
 
 -- 语言支持
 require("language/cpp") --cpp c
+
+-- 终端
+require('plugins/toggleterm')

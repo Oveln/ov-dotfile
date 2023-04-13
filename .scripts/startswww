@@ -1,0 +1,3 @@
+swww init
+sleep 0.2
+swww img ~/Pictures/2.jpg
